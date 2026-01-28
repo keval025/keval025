@@ -34,6 +34,8 @@ Passionate about building scalable web apps & solving algorithmic problems.
 ![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=flat&logo=tailwindcss)
 ![ShadcnUI](https://img.shields.io/badge/ShadcnUI-000?style=flat)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=flat&logo=GSAP)
+
 
 </div>
 
