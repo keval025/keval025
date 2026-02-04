@@ -65,7 +65,6 @@ Passionate about building scalable web apps & solving algorithmic problems.
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows)
 ![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=notion)
-![Google Colab](https://img.shields.io/badge/Colab-000?style=flat&logo=googlecolab)
 
 </div>
 
