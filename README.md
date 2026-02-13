@@ -70,15 +70,6 @@ Passionate about building scalable web apps & solving algorithmic problems.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keval025&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keval025&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: **kevalhirpara2003@gmail.com**
