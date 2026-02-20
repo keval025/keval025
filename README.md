@@ -69,6 +69,13 @@ Passionate about building scalable web apps & solving algorithmic problems.
 </div>
 
 ---
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=keval025&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
 
 ## 📫 Connect With Me
 
